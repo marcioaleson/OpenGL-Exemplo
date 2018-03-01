@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1413600005 source:c:\users\marcio Áleson\documents\cdc-ufpi\computação gráfica\trabalhoi\trabalho i de computacao grafica\main.c
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	<stdio.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+
